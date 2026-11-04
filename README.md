@@ -44,8 +44,8 @@ Projeto](./AT2-Deploy-de-Site/) |
 | **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com
 JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
 | **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento
-de um site com múltiplas páginas. | [Ver
-Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
+de um site com múltiplas páginas. | 
+[Ver Projeto](./AT4-Site-Multi-Paginas-Bootstrap/). |
 | **Desenvolvimento com IA** | Copilotando o desenvolvimento front-end
 com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
 #### 🗃 Modelagem de Banco de Dados
