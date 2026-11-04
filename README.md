@@ -5,10 +5,10 @@ Portfólio de projetos de Diego Marques de Carvalho
 > Estudante de analise de desenvolvimento de sistemas
 ---
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-almeida-pereira-70a2a4361)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-almeida-pereira-70a2a4361)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](
-mailto:leaoduda1911@gmail.com)]
+mailto:leaoduda1911@gmail.com)
 
 [![Currículo]https://docs.google.com/document/d/1POyuBPoxgMxd3r4ufDxDuAhTUFztLLjWoMg1p8rjZOc/edit?tab=t.0)]
 ---
