@@ -1,0 +1,67 @@
+body {
+    background-image: url(../image/background.jpg);
+    background-repeat: repeat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 1000px;
+    height: 150px;
+    margin: 0 auto;
+    background-color: #8C532B;
+    text-align: center;
+    line-height: 150px;
+    color: #FFFDF5
+}
+
+nav {
+    width: 1000px;
+    height: 60px;
+    margin: 0 auto;
+    background-color: #4A2E1B;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    float: left;
+}
+
+nav a {
+    display: block;
+    padding: 20px 25px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    width: 1000px;
+    min-height: 500px;
+    margin: 0 auto;
+    background-color: #FFFDF5;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+main p {
+    text-align: justify; /* Alinha o texto em ambos os lados */
+    line-height: 1.6;    /* Melhora a leitura aumentando o espaço entre as linhas */
+    margin-bottom: 16px; /* Mantém um espaço confortável entre cada parágrafo */
+}
+
+footer {
+    width: 1000px;
+    height: 75px;
+    margin: 0 auto;
+    background-color: #311E12;
+    color: white;
+    text-align: center;
+    line-height: 75px;
+}
