@@ -31,6 +31,6 @@ testado e compreendido por mim, garantindo a minha responsabilidade
 integral sobre a autoria final, integridade e funcionamento da
 aplicação.
 ## 💻 Deploy do projeto
-[Clique para acessar](file:///C:/Users/erica/Downloads/calculadora-imc-preto%20(1).html)
+[Clique para acessar](file:///C:/Users/erica/OneDrive/Desktop/calculadora.imc/index.html)
 ---
 [Voltar ao início](https://github.com/leaoduda1911-cyber/portfolio-maria-eduarda-almeida-pereira)
