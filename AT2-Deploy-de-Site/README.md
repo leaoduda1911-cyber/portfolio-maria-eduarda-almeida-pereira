@@ -34,4 +34,4 @@ aplicação.
 ## 💻 Deploy do projeto
 [Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/)
 ---
-[Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
+[Voltar ao início](https://github.com/leaoduda1911-cyber/portfolio-maria-eduarda-almeida-pereira)
