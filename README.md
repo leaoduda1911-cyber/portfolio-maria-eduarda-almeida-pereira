@@ -10,7 +10,7 @@ Portfólio de projetos de Diego Marques de Carvalho
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](
 mailto:leaoduda1911@gmail.com)
 
-[![Currículo]https://docs.google.com/document/d/1POyuBPoxgMxd3r4ufDxDuAhTUFztLLjWoMg1p8rjZOc/edit?tab=t.0)]
+[Currículo]https://docs.google.com/document/d/1POyuBPoxgMxd3r4ufDxDuAhTUFztLLjWoMg1p8rjZOc/edit?tab=t.0)]
 ---
 ### 󰞵 Sobre
 Atualmente cursando o 2° período de Analise de desenvolvimento de sistemas na Universidade da Cidade de São Paulo. Sou apaixonado por resolver problemas através da
