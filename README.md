@@ -39,8 +39,7 @@ assertiva e pensamento crítico.
 | :--- | :--- | :---: |
 | **Site Básico em HTML5** | Criação de site básico com 5 páginas em
 HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
-| **Deploy de Site** | Publicação de site no github pages. | [Ver
-Projeto](./AT2-Deploy-de-Site/) |
+| **Deploy de Site** | Publicação de site no github pages.|[Ver Projeto](./AT2-Deploy-de-Site/).|
 | **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com
 JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
 | **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento
