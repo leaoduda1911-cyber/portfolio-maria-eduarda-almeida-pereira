@@ -5,10 +5,11 @@ Portfólio de projetos de Diego Marques de Carvalho
 > Estudante de analise de desenvolvimento de sistemas
 ---
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-almeida-pereira-70a2a4361)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-almeida-pereira-70a2a4361)]
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](
-mailto:leaoduda1911@gmail.com)
+mailto:leaoduda1911@gmail.com)]
+
 [![Currículo]https://docs.google.com/document/d/1POyuBPoxgMxd3r4ufDxDuAhTUFztLLjWoMg1p8rjZOc/edit?tab=t.0)]
 ---
 ### 󰞵 Sobre
@@ -30,11 +31,7 @@ assertiva e pensamento crítico.
 #### 🗄 Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-#### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-th
-e-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg
-?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ---
 ### 📂 Portfólio de Projetos
 #### 󰳕 Desenvolvimento Front-End para Web
@@ -57,8 +54,4 @@ com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
 | **Nome do projeto** | Documento de Requisitos, Modelagem ER e Scripts
 SQL. | [Ver Projeto](./projeto-banco-dados/) |
 ---
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o
-README específico do projeto acadêmico.
+
