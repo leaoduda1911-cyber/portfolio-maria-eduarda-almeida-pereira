@@ -1,0 +1,365 @@
+/* ===================================================
+   Patinhas de Amor — Estilo CSS Completo e Finalizado
+   =================================================== */
+
+/* --- 1. ESTRUTURA E CORPO PRINCIPAL (Fundo Verde Claro) --- */
+body {
+  background-color: #e8f5e9 !important; /* Fundo geral verde claro */
+  color: #198754 !important;            /* Verde Padrão Bootstrap para textos */
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+/* Parágrafos (<p>) e listas com cor Verde Padrão do Bootstrap */
+main p, main ul, main ol {
+  text-align: left !important;
+  line-height: 1.6;
+  color: #198754 !important; /* Verde Padrão do Bootstrap */
+  font-weight: 500;
+}
+
+/* --- 2. CABEÇALHO (Patinhas de Amor -> Verde Padrão Bootstrap) --- */
+header, 
+header.bg-body-secondary, 
+header.bg-light,
+.bg-body-secondary:not(footer) {
+  background-color: #198754 !important; /* Verde Padrão do Bootstrap */
+  color: #ffffff !important;
+  text-align: center;
+  padding: 2.5rem 1rem 1.5rem 1rem !important;
+}
+
+header h1, header h2, header h3, header h4, header h5, header p {
+  color: #ffffff !important; 
+  text-align: center !important;
+  font-weight: 700;
+}
+
+/* --- 3. MENU DE NAVEGAÇÃO (Início, Sobre... -> Verde Escuro) --- */
+nav, 
+.navbar, 
+.navbar.bg-body-tertiary {
+  background-color: #1b4332 !important; /* Verde Escuro */
+  padding-bottom: 0.8rem !important;
+  padding-top: 0.8rem !important;
+}
+
+.navbar-nav {
+  margin: 0 auto;
+}
+
+.nav-pills .nav-link {
+  color: #ffffff !important;
+  font-weight: 500;
+  border-radius: 20px;
+  padding: 8px 18px;
+  transition: all 0.3s ease;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #198754 !important; /* Destaque na aba ativa */
+  color: #ffffff !important;
+}
+
+.nav-pills .nav-link:hover:not(.active) {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+/* --- 4. TÍTULOS H2 E H5 (Verde Padrão + Letras Brancas) --- */
+main h2 {
+  color: #ffffff !important;           
+  background-color: #198754 !important; /* Verde Padrão do Bootstrap */
+  padding: 10px 18px;
+  border-radius: 8px;
+  display: inline-block;
+  font-weight: 700;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Texto "Saiba mais:" simples sem fundo de botão */
+main h5 {
+  color: #1b4332 !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  display: block !important;
+  font-weight: 700;
+  margin-top: 1.5rem;
+  margin-bottom: 0.8rem;
+  text-align: left !important;
+}
+
+/* --- 5. CARROSSEL DO INÍCIO (Borda Grossa Verde Escuro) --- */
+.carousel {
+  max-width: 1000px;
+  margin: 2.5rem auto;      
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+  border: 5px solid #1b4332 !important; /* Borda grossa verde escuro */
+}
+
+.carousel-item img {
+  height: 600px !important; 
+  object-fit: cover !important;
+  object-position: center !important;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+.carousel-item.active img {
+  height: 680px !important; /* Primeira imagem com altura maior */
+  object-fit: cover !important;
+  object-position: center !important;
+  image-rendering: -webkit-optimize-contrast;
+}
+
+.carousel-caption {
+  background: rgba(27, 67, 50, 0.85); 
+  border-radius: 10px;
+  padding: 12px 18px;
+}
+
+.carousel-caption h5, 
+.carousel-caption p {
+  background-color: transparent !important;
+  color: #ffffff !important; 
+  text-align: center !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* --- 6. CARDS & FOTOS DA PÁGINA SOBRE E GALERIA --- */
+.card,
+main img.img-fluid,
+main img.rounded {
+  border: 5px solid #1b4332 !important; /* Borda grossa verde escuro */
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.card {
+  background-color: #ffffff;
+}
+
+.card img, .card .card-img-top {
+  height: 280px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+}
+
+.card-title {
+  color: #ffffff !important; 
+  background-color: #198754 !important;
+  padding: 6px 12px;
+  border-radius: 6px;
+  display: block !important;
+}
+
+.card-text {
+  color: #198754 !important; 
+  text-align: left !important;
+}
+
+/* --- 7. TABELA E ACORDEÕES (Página Dados) --- */
+
+/* Tabela com Borda Grossa Verde Escuro em toda a volta */
+.table-responsive {
+  border: 5px solid #1b4332 !important;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.table {
+  margin-bottom: 0 !important;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.table th, .table td {
+  border: 1px solid #1b4332 !important;
+  padding: 12px;
+  vertical-align: middle;
+}
+
+.table thead {
+  background-color: #198754 !important;
+  color: #ffffff !important;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+  background-color: #d0e8d4 !important;
+  color: #1b4332 !important;
+}
+
+/* --- ACORDEÃO 100% DE PONTA A PONTA EM VERDE PADRÃO --- */
+.accordion {
+  width: 100% !important;
+}
+
+.accordion-item {
+  border: 2px solid #1b4332 !important;
+  margin-bottom: 12px;
+  border-radius: 8px !important;
+  overflow: hidden;
+  width: 100% !important;
+}
+
+.accordion-header {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Botão Verde Padrão de ponta a ponta */
+.accordion-button {
+  background-color: #198754 !important; /* Verde Padrão no bloco inteiro */
+  color: #ffffff !important;
+  font-weight: 600;
+  border: none !important;
+  box-shadow: none !important;
+  width: 100% !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  padding: 1.1rem 1.25rem !important;
+  border-radius: 0 !important;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #146c43 !important;
+  color: #ffffff !important;
+  box-shadow: none !important;
+}
+
+/* Setinha do acordeão em branco */
+.accordion-button::after {
+  filter: brightness(0) invert(1) !important;
+  margin-left: auto !important;
+}
+
+/* Resposta expandida com fundo BRANCO */
+.accordion-body {
+  background-color: #ffffff !important; /* Fundo branco */
+  color: #198754 !important;             /* Texto da resposta em verde padrão */
+  text-align: left !important;
+  padding: 1.2rem;
+  border-top: 2px solid #1b4332 !important;
+}
+
+/* --- 8. MODAL --- */
+.modal-content {
+  border: 3px solid #1b4332 !important;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.modal-header {
+  background-color: #1b4332 !important; /* Verde Escuro */
+  color: #ffffff !important;
+  border-bottom: 1px solid #143622;
+}
+
+.modal-header .modal-title,
+.modal-header .btn-close {
+  color: #ffffff !important;
+}
+
+.modal-header .btn-close {
+  filter: brightness(0) invert(1);
+}
+
+.modal-body {
+  background-color: #e8f5e9 !important; /* Verde Claro */
+  color: #198754 !important;             
+  text-align: left !important;
+}
+
+.modal-body p {
+  color: #198754 !important;
+}
+
+.modal-footer {
+  background-color: #e8f5e9 !important;
+  border-top: 1px solid #c8e6c9;
+}
+
+.modal-footer .btn-danger,
+.modal-footer .btn-secondary,
+.btn-danger {
+  background-color: #dc3545 !important; /* Vermelho Danger */
+  border-color: #dc3545 !important;
+  color: #ffffff !important;
+  border-radius: 20px;
+  padding: 6px 20px;
+  font-weight: 600;
+}
+
+.modal-footer .btn-danger:hover {
+  background-color: #bb2d3b !important;
+  border-color: #b02a37 !important;
+}
+
+/* --- 9. FORMULÁRIO (Página Contato) --- */
+.form-control, 
+.form-select, 
+textarea {
+  border: 2px solid #1b4332 !important; /* Borda fina verde escuro nos campos */
+  border-radius: 8px;
+  background-color: #ffffff !important;
+  color: #1b4332 !important;
+}
+
+.form-control:focus, 
+.form-select:focus, 
+textarea:focus {
+  border-color: #198754 !important;
+  box-shadow: 0 0 0 0.25rem rgba(25, 135, 84, 0.25) !important;
+}
+
+/* --- 10. BOTÕES DE AÇÃO GERAIS --- */
+.btn-primary, .btn-success {
+  background-color: #198754 !important; /* Verde Padrão */
+  border-color: #198754 !important;
+  color: #ffffff !important;
+  border-radius: 25px;
+  padding: 8px 22px;
+  font-weight: 600;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover, .btn-success:hover {
+  background-color: #146c43 !important;
+  border-color: #146c43 !important;
+  transform: translateY(-2px);
+}
+
+/* --- 11. RODAPÉ (Forçar VERDE ESCURO em TODAS as páginas) --- */
+footer, 
+footer.bg-body-secondary, 
+footer.bg-light,
+footer.bg-dark,
+footer.text-center,
+footer.py-3 {
+  background-color: #1b4332 !important; /* Verde Escuro (#1b4332) absoluto */
+  color: #ffffff !important;
+  text-align: center !important;
+  padding: 1.2rem 0 !important;
+  margin-top: auto !important;
+}
+
+footer p, 
+footer span, 
+footer div, 
+footer a {
+  color: #ffffff !important;
+  text-align: center !important;
+}
