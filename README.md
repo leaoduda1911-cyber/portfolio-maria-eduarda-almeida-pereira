@@ -22,12 +22,12 @@ assertiva e pensamento crítico.
 .
 ---
 
-###Por onde eu faço meus projetos:
+#### Por onde eu faço os meus projetos
 
-###SISTEMA OPERACINAL
+#### Sistema operacional
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-###FERRAMENTA
+#### Ferramenta
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
