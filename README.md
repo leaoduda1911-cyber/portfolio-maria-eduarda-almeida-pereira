@@ -22,11 +22,14 @@ assertiva e pensamento crítico.
 ---
 
 ##por onde eu faço meus projetos:
+
+
 SISTEMA OPERACINAL
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 FERRAMENTA
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Linguagens e Tecnologias
