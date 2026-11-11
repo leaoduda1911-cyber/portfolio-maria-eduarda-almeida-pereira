@@ -10,6 +10,8 @@
 mailto:leaoduda1911@gmail.com)
 
 
+
+
 ---
 ### ✨ Sobre
 Atualmente cursando o 2° período de Analise de desenvolvimento de sistemas na Universidade da Cidade de São Paulo. Sou apaixonado por resolver problemas através da
