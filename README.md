@@ -32,6 +32,10 @@ assertiva e pensamento crítico.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
+## Modelagem de banco de Dados
+(https://leaoduda1911-cyber.github.io/Drogaria-Higashi)
+
+
 ---
 ### 📂 Portfólio de Projetos
 #### 󰳕 Desenvolvimento Front-End para Web
